@@ -18,7 +18,8 @@ Half Adder:
 
 Full adder:
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7dbe0783-b79f-4eb7-ab8f-07a034c2222a)
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/9bb3964c-438f-469d-a3de-c1cca6f323fb)
+
 
 
 Half Subtractor:
