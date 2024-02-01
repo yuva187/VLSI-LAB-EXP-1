@@ -13,7 +13,7 @@ Logic Gates:
 
 Half Adder:
 
-![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/7e65f0f3-63c8-4ef0-9fbb-2b3aec614e69)
+![image](https://github.com/navaneethans/VLSI-LAB-EXPERIMENTS/assets/6987778/0e1ecb96-0c25-4556-832b-aeeedfdfe7b9)
 
 
 Full adder:
